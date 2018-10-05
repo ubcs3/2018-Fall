@@ -13,7 +13,7 @@ Our seminar meets every **Thursday 4-5pm in LSK 121**. Please join the [UBCS3 ma
 | Date | Topic | Presenter |
 | :---: | :---: | :---: |
 | September 27 | MATLAB Autograding Tool | [@patrickwalls](https://github.com/patrickwalls) |
-| October 4 | Introduction to the Salish Sea | Vicky Do |
+| October 4 | [Introduction to the Salish Sea](10-04-vicky-do/UBCS3-DO.pdf) | Vicky Do |
 | October 11 |  | [@asberk](https://github.com/asberk) |
 | October 18 |  | [@matteolepur](https://github.com/matteolepur) |
 | October 25 |  | [@Julian-Mentasti](https://github.com/Julian-Mentasti) |
