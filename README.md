@@ -16,8 +16,8 @@ Our seminar meets every **Thursday 4-5pm in LSK 121**. Please join the [UBCS3 ma
 | October 4 | [Introduction to the Salish Sea](10-04-vicky-do/UBCS3-DO.pdf) | Vicky Do |
 | October 11 | [Hosting a website on GitHub with Hugo](https://aaronberk.ca/project/hugo-tutorial/)  | [@asberk](https://github.com/asberk) |
 | October 18 | Cross-Validation with Linear, Ridge, and Lasso Regression | [@matteolepur](https://github.com/matteolepur) |
-| October 25 |  | [@Julian-Mentasti](https://github.com/Julian-Mentasti) |
-| November 1 |  |  |
+| October 25 | [Spotify API with spotipy](https://github.com/ubcs3/2018-Fall/tree/master/10-25-julian-mentasti) | [@Julian-Mentasti](https://github.com/Julian-Mentasti) |
+| November 1 | Setting up Servers in the Cloud |  Stefano Vazzoler |
 | November 8 |  | Qianqian Feng |
 | November 15 |  |  |
 | November 22 |  |  |
