@@ -17,8 +17,8 @@ Our seminar meets every **Thursday 4-5pm in LSK 121**. Please join the [UBCS3 ma
 | October 11 | [Hosting a website on GitHub with Hugo](https://aaronberk.ca/project/hugo-tutorial/)  | [@asberk](https://github.com/asberk) |
 | October 18 | Cross-Validation with Linear, Ridge, and Lasso Regression | [@matteolepur](https://github.com/matteolepur) |
 | October 25 | [Spotify API with spotipy](https://github.com/ubcs3/2018-Fall/tree/master/10-25-julian-mentasti) | [@Julian-Mentasti](https://github.com/Julian-Mentasti) |
-| November 1 | [Droplets in an Ocean](https://stefanovazzoler.com/ubcs3-droplets/) |  [Stefano Vazzoler](https://stefanovazzoler.com/) |
-| November 8 |  | Qianqian Feng |
+| November 1 | [Droplets in an Ocean](https://stefanovazzoler.com/ubcs3-droplets/) |  [@stefanovazzocell](https://github.com/stefanovazzocell) |
+| November 8 |  | [Qianqian Feng](https://github.com/QianqianF) |
 | November 15 |  |  |
 | November 22 |  |  |
 | November 29 |  |  |
